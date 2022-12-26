@@ -1,0 +1,107 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-080-102
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:23:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:23:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: а
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:23:50] "GET /search?s=а HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:23:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:23:50] "[36mGET /uploads/googles-new-logo-5078286822539264.3-hp2x.gif HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-080-102
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:25:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:25:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:25:30] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:25:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Загружено не изображение!
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:25:34] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/purechromas/PycharmProjects/lesson12_homeworka/main/utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-080-102
+INFO:werkzeug: * Detected change in '/home/purechromas/PycharmProjects/lesson12_homeworka/main/utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-080-102
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-080-102
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-080-102
+INFO:root:Поиск: agh
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:32:59] "[35m[1mGET /search?s=agh HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:32:59] "GET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:32:59] "GET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:32:59] "GET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:32:59] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: ага
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:33:08] "[35m[1mGET /search?s=ага HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:33:08] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:33:08] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:33:08] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:33:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:33:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: Ага
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:33:23] "[35m[1mGET /search?s=Ага HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:33:23] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:33:23] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:33:24] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-080-102
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: Ага
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:19] "[35m[1mGET /search?s=Ага HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:19] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:19] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:19] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-080-102
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:54] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:55] "[36mGET /uploads/googles-new-logo-5078286822539264.3-hp2x.gif HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: Ага
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:57] "GET /search?s=Ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:34:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:35:00] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:35:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:35:06] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:35:08] "GET /post HTTP/1.1" 200 -
+INFO:root:Загружено не изображение!
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:35:11] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 00:35:13] "GET /post HTTP/1.1" 200 -
